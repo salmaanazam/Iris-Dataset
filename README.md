@@ -1,1 +1,1 @@
-Iris-Dataset
+The Iris flower data is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper. The data set contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. The fifth column is the species of the flower observed. All observed flowers belong to one of three species. I developed model learning model based on the combination of these four features and i found that knn is the best model for iris dataset. 
